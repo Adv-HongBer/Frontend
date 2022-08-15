@@ -12,4 +12,5 @@ export const ButtonLogin = styled.button`
     font-size: 14px;
     border-radius: 25px;
     margin-right: 16px;
+    cursor: pointer;
 `
