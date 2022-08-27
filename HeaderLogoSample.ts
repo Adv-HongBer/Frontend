@@ -6,7 +6,7 @@ export const HeaderLogoSample = styled.h1`
     ${Serif}
     ${Light}
     color: ${White}
-    font-size: 32px;
+    font-size: 28px;
 
     @media screen and (min-width: 768px) {
         font-size: 36px;
